@@ -1,5 +1,4 @@
 # Hi, I'm Blziko! 👋
-_you can call me reina btw_
 
 <div align="center">
     <img src="hu_tao.gif" width="100">
