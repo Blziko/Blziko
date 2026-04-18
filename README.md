@@ -1,12 +1,6 @@
 # Hi, I'm Blziko! 👋
 
----
-
-<p align="center">
-    <img src="https://count.getloli.com/get/@Blziko?theme=booru-smtg" width="200" />
-</p>
-
----
+<img src="giphy.gif" width="50" />
 
 I'm a developer who believes in the power of **automation and small-scale efficiency**.  
 Instead of building the next big social media, I focus on crafting tiny, robust tools that make life (and coding) easier.
