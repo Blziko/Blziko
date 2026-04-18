@@ -4,7 +4,7 @@
 
 <p align="center">
     <img src="hu_tao.gif" width="50">
-    <img src="https://count.getloli.com/get/@Blziko?theme=rule34" width="250" />
+    <img src="https://count.getloli.com/get/@Blziko?theme=rule34" width="230" />
     <img src="hu_tao.gif" width="50">
 </p>
 
