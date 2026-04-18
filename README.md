@@ -1,8 +1,14 @@
 # Hi, I'm Blziko! 👋
 
-<div align="center">
-    <img src="hu_tao.gif" width="100">
-</div>
+---
+
+<p align="center">
+    <img src="hu_tao.gif" width="50">
+    <img src="https://count.getloli.com/get/@Blziko?theme=rule34" width="250" />
+    <img src="hu_tao.gif" width="50">
+</p>
+
+---
 
 I'm a developer who believes in the power of **automation and small-scale efficiency**.  
 Instead of building the next big social media, I focus on crafting tiny, robust tools that make life (and coding) easier.
