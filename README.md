@@ -1,4 +1,4 @@
-# Hi, I'm Blziko! 👋
+# Hi, I'm Reina! 👋
 
 <img src="giphy.gif" width="50" />
 
